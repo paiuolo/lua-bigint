@@ -1,7 +1,7 @@
  package = "bigint"
  version = "1.0.3-1"
  source = {
-    url = "git://github.com/JorjBauer/lua-bigint",
+    url = "https://github.com/JorjBauer/lua-bigint",
     tag = "v1.0.3"
  }
  description = {
